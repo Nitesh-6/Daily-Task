@@ -1,0 +1,43 @@
+.userInput{
+  padding-top: 0.7%;
+}
+
+form {
+  margin: auto;
+  width: 80%; /*Add this line to set the width to 80% */
+}
+
+label {
+  /* display: block; */
+  margin-bottom: 10px;
+}
+input[type="text"],
+textarea,
+input[type="date"] {
+  /* display: block; */
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-sizing: border-box;
+  resize: none;
+}
+button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #3e8e41;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 1%;
+  padding-top: 1%;
+}

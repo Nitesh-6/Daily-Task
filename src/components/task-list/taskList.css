@@ -1,0 +1,15 @@
+.taskList {
+  overflow-x: hidden;
+  background-color: white;
+  padding-top: 2%;
+}
+
+.IDVTask {
+  padding-left: 20px;
+}
+
+.information {
+  padding-left: 30px;
+}
+
+

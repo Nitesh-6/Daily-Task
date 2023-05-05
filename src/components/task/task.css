@@ -1,0 +1,48 @@
+/* .card{
+  width: 80%;
+} */
+
+.task {
+  box-shadow: 2px 2px 2px 2px #ccc;
+  border: 2px #eee;
+  margin: 10px;
+  padding: 7px;
+  text-align: left;
+  border: solid 2px blue;
+}
+.yellowColor{
+    border: solid 2px yellow;
+}
+.greenColor{
+    border: solid 2px green;
+}
+
+.checkBoxForStatus{
+  margin-right: 1%;
+}
+
+.spaceAfterElement {
+  margin-right: 1%;
+}
+
+/* .deleteButton{
+  float: right;
+  margin-top: -10px;
+} */
+/* .date {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+}
+.delete {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap;
+  /* align-content: stretch; */
+/*} */
+.delete{
+  float: right;
+}
+img{
+  width: 2%;
+}
